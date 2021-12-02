@@ -1,0 +1,31 @@
+
+
+body{
+    background-color: #d47677;
+    
+}
+
+div {
+    background-color: #f0f0f0;
+    border: 80px;
+    padding: 70px;
+    margin: 10px 200px;
+    text-align: center;
+   }
+
+  .checkDIV{
+    position: relative;
+    left:10px;
+  }
+
+form {
+padding: 10px;
+border: 10px;
+}
+button{
+    background-color: #9dd8d4;
+    
+}
+
+
+
